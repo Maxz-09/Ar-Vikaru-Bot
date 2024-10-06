@@ -1,6 +1,6 @@
 # AutoResponder Vikaru-Bot
 
-Ini adalah template file dari Autoresponder App yang di kembangkan oleh Maxz-09
+Ini adalah template file dari [Autoresponder App](https://play.google.com/store/apps/dev?id=7857280643314172854) yang di kembangkan oleh Maxz-09
 
 ## Features
 
@@ -12,8 +12,8 @@ Keunggulan nya :
 2. Tidak perlu menggunakan server
 3. Sistem Registrasi ( save kontak )
 4. Sistem kirim media ( error )
-5. Sistem Vikaru-Api
-6. Sistem plugin Tasker
+5. Sistem [Vikaru-Api](https://vikaru-api.bohr.io/)
+6. Sistem plugin [Tasker](
    
 List fitur :
 
@@ -35,14 +35,20 @@ List fitur :
 
 1. [Fork](https://github.com/Maxz-09/ar-vikaru-bot/fork) this repository.
 
-2. Download rilis 
+2. Download file terbaru melalui Releases 
 
-3. Import file "Ar-Vikaru-bot.csv" ke Autoresponder ~start
+3. [Import](https://wa.me/) file "Ar-Vikaru-bot.csv" ke Autoresponder ~start
 
 4. Import file "Tsk-Vikaru-bot.xml" ~start
 
 5. Bot WhatsApp sudah dapat digunakan, enjoy!
 
+## Software 
+1. [Autoresponder](https://play.google.com/store/apps/dev?id=7857280643314172854)
+2. [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+3. [ContactsTask](https://play.google.com/store/apps/details?id=com.balda.contactstask)
+4. [AutoMail](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.joaomgcd.autogmail%26hl%3Did%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Daplikasi%2Bautomail%26pcampaignid%3DAPPU_1_v2QCZ6CrKeyJ4-EPhaS-4AQ&ved=2ahUKEwjghreuxPmIAxXsxDgGHQWSD0wQ5YQBegQIDBAC&usg=AOvVaw1y31sjS79VE0U_TperMzev)
+   
 ## Contributing
 
 Feel free to contribute by opening issues or pull requests. Your feedback and contributions are highly appreciated.
