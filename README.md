@@ -53,7 +53,8 @@ List fitur :
 
 10. Selesai, mulai lah menggunakan command sederhana dengan cara ketik:
    ```bash
-/menu```
+/menu
+```
 
 ## Software 
 1. [Autoresponder](https://play.google.com/store/apps/dev?id=7857280643314172854) ( berlangganan )
