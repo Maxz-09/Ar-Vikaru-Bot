@@ -4,11 +4,7 @@ Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https:/
 
 Tujuannya adalah untuk dapat menggunakan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu keahlian tentang bahasa pemrograman.
 
-## Features
-
-Bot ini memiliki fitur lebih dari 100+ yang dapat membantu kamu melalui fitur AI nya maupun menghibur kamu di waktu kosong.
-
-Keunggulan nya :
+## superiority 
 
 1. Multi Prefix & Multi Device
 2. Tidak perlu menggunakan server
@@ -16,7 +12,11 @@ Keunggulan nya :
 4. Sistem kirim media ( Termux )
 5. Sistem [Vikaru-Api](https://vikaru-api.bohr.io/)
 6. Sistem Tasker
-   
+
+## Features
+
+Bot ini memiliki fitur lebih dari 100+ yang dapat membantu kamu melalui fitur AI nya maupun menghibur kamu di waktu kosong.
+
 List fitur :
 
 1. Main menu
@@ -57,7 +57,7 @@ List fitur :
    ```bash
 /menu
 ```
-Catatan:
+## Note
 Bot tidak membalas jika tidak menerima notifikasi, pastikan notifikasi terkirim dengan benar.
 
 jika kamu membaca pesan saat ada yang mengirim pesan "/menu" maka notifikasi tidak masuk dan bisa menyebabkan bot tidak membalas.
@@ -71,6 +71,16 @@ jika kamu membaca pesan saat ada yang mengirim pesan "/menu" maka notifikasi tid
 ## Contributing
 
 Feel free to contribute by opening issues or pull requests. Your feedback and contributions are highly appreciated.
+
+## Info Template 
+Kamu bisa membeli template Bot melalui no wa ini:
+```bash
++6289508899033
+```
+
+bonus :
+- Mendapatkan Free update
+- Di beri bimbingan untuk mengembangkan bot
 
 ## License
 
