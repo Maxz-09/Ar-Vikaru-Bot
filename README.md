@@ -1,4 +1,4 @@
-# AR (AutoResponder) Vikaru-Bot
+# AutoResponder Vikaru-Bot
 
 Ini adalah template file dari Autoresponder App yang di kembangkan oleh Maxz-09
 
