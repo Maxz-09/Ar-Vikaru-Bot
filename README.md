@@ -47,12 +47,12 @@ List fitur :
 
 7. Import file "Tsk-Vikaru-bot.xml" ke project Tasker lalu aktifkan
 
-8. Mulai lah menggunakan command sederhana dengan cara ketik:
-   ```bash
-   /menu
-   ```
+8. Lalu Buka Aplikasi ContactsTask dan terima perizinan dari aplikasi tersebut dan nyalakan berjalan di latar belakang
 
-10. Bot WhatsApp sudah dapat digunakan, enjoy!
+9. Lalu buka Aplikasi AutoMail dan terima perizinan dari aplikasi tersebut, lalu login menggunakan akun email yang ingin dijadikan sebagai pengirim code verifikasi untuk fitur registrasi dan nyalakan berjalan di latar belakang
+
+10. Selesai, mulai lah menggunakan command sederhana dengan cara ketik:
+   ```bash /menu```
 
 ## Software 
 1. [Autoresponder](https://play.google.com/store/apps/dev?id=7857280643314172854)
