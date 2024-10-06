@@ -1,6 +1,6 @@
 # Vikaru-Bot
 
-Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https://github.com/Maxz-09.com) untuk menjalankan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu mengetahui tentang bahasa pemrograman.
+Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https://github.com/Maxz-09) untuk menjalankan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu mengetahui tentang bahasa pemrograman.
 
 ## Features
 
@@ -13,7 +13,7 @@ Keunggulan nya :
 3. Sistem Registrasi ( save kontak )
 4. Sistem kirim media ( error )
 5. Sistem [Vikaru-Api](https://vikaru-api.bohr.io/)
-6. Sistem plugin [Tasker](
+6. Sistem plugin Tasker
    
 List fitur :
 
