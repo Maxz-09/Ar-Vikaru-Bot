@@ -1,6 +1,6 @@
-# AutoResponder Vikaru-Bot
+# Vikaru-Bot
 
-Ini adalah template file dari [Autoresponder App](https://play.google.com/store/apps/dev?id=7857280643314172854) yang di kembangkan oleh Maxz-09
+Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https://github.com/Maxz-09.com) untuk menjalankan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu mengetahui tentang bahasa pemrograman.
 
 ## Features
 
