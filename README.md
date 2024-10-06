@@ -1,6 +1,8 @@
 # Vikaru-Bot
 
-Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https://github.com/Maxz-09) untuk menjalankan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu mengetahui tentang bahasa pemrograman.
+Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https://github.com/Maxz-09)
+
+Tujuannya adalah untuk dapat menggunakan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu keahlian tentang bahasa pemrograman.
 
 ## Features
 
@@ -11,9 +13,9 @@ Keunggulan nya :
 1. Multi Prefix & Multi Device
 2. Tidak perlu menggunakan server
 3. Sistem Registrasi ( save kontak )
-4. Sistem kirim media ( error )
+4. Sistem kirim media ( Termux )
 5. Sistem [Vikaru-Api](https://vikaru-api.bohr.io/)
-6. Sistem plugin Tasker
+6. Sistem Tasker
    
 List fitur :
 
@@ -55,6 +57,10 @@ List fitur :
    ```bash
 /menu
 ```
+Catatan:
+Bot tidak membalas jika tidak menerima notifikasi, pastikan notifikasi terkirim dengan benar.
+
+jika kamu membaca pesan saat ada yang mengirim pesan "/menu" maka notifikasi tidak masuk dan bisa menyebabkan bot tidak membalas.
 
 ## Software 
 1. [Autoresponder](https://play.google.com/store/apps/dev?id=7857280643314172854) ( berlangganan )
