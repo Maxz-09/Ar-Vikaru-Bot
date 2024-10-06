@@ -35,13 +35,24 @@ List fitur :
 
 1. [Fork](https://github.com/Maxz-09/ar-vikaru-bot/fork) this repository.
 
-2. Download file terbaru melalui Releases 
+2. Download file terbaru melalui [Releases](https://github.com/Maxz-09/Ar-Vikaru-Bot/releases/tag/Update)
 
-3. [Import](https://wa.me/) file "Ar-Vikaru-bot.csv" ke Autoresponder ~start
+3. [Import](https://wa.me/) file "Ar-Vikaru-bot.csv" ke Autoresponder
 
-4. Import file "Tsk-Vikaru-bot.xml" ~start
+4. [Import](https://wa.me/) file "Ar-Vikaru-Input.csv" ke Penggantian jawaban Ar
 
-5. Bot WhatsApp sudah dapat digunakan, enjoy!
+5. Masuk ke setting Autoresponder dan ubah "Otomatisasi" menjadi [seperti ini](https://wa.me/)
+
+6. Setelah itu setting sesuai kebutuhan kamu lalu [aktifkan](https://wa.me/) bot nya
+
+7. Import file "Tsk-Vikaru-bot.xml" ke project Tasker lalu aktifkan
+
+8. Mulai lah menggunakan command sederhana dengan cara ketik:
+   ```bash
+   /menu
+   ```
+
+10. Bot WhatsApp sudah dapat digunakan, enjoy!
 
 ## Software 
 1. [Autoresponder](https://play.google.com/store/apps/dev?id=7857280643314172854)
