@@ -1,10 +1,10 @@
-# Ar-Vikaru-Bot
+## Ar-Vikaru-Bot
 
 This is an Autoresponder file template developed by [Maxz-09](https://github.com/Maxz-09)
 
 The purpose of creating this template is to be able to use a WhatsApp bot that is easy to develop yourself without the need for coding and programming language skills.
 
-## Superiority 
+### Superiority 
 
 The advantages of this bot are as follows :
 
@@ -15,7 +15,7 @@ The advantages of this bot are as follows :
 - System [Vikaru-Api](https://vikaru-api.bohr.io/)
 - Tasker System
 
-## Features
+### Features
 
 This bot has more than 100+ features that can definitely help you through its AI features, and it can also entertain you in your free time with its fun features.
 
@@ -35,7 +35,13 @@ Feature list :
 - Kalkulator 
 - Api-Ai
 
-## Getting Started
+### Required apps
+1. [AutoResponder Wa](https://play.google.com/store/apps/dev?id=7857280643314172854) (subscribe/sell)
+2. [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) (sell)
+3. [ContactsTask](https://play.google.com/store/apps/details?id=com.balda.contactstask) (free)
+4. [AutoMail](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.joaomgcd.autogmail%26hl%3Did%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Daplikasi%2Bautomail%26pcampaignid%3DAPPU_1_v2QCZ6CrKeyJ4-EPhaS-4AQ&ved=2ahUKEwjghreuxPmIAxXsxDgGHQWSD0wQ5YQBegQIDBAC&usg=AOvVaw1y31sjS79VE0U_TperMzev) (sell)
+   
+### Getting Started
 
 1. Download the latest file via [Releases](https://github.com/Maxz-09/Ar-Vikaru-Bot/releases/tag/Update)
 
@@ -57,9 +63,9 @@ Feature list :
 ```bash
 /menu
 ```
-10. join my community [group](https://chat.whatsapp.com/JfpGsd5GPh5EzvRVjm54tx)
+10. Join my community [group](https://chat.whatsapp.com/JfpGsd5GPh5EzvRVjm54tx)
 
-## Note
+### Note
 
 - Bots do not reply if they do not receive notifications, make sure the notification is sent correctly. If you open and read a message when someone sends a message, the notification will not come in and can cause bot not replying. and make sure you have a stable internet connection to receive messages.
 
@@ -67,12 +73,8 @@ Feature list :
 
 - This bot mostly uses Indonesian, if you want to use another language, please just request it to the owner.
    
-1. [AutoResponder App](https://play.google.com/store/apps/dev?id=7857280643314172854) (subscribe/sell)
-2. [Tasker App](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) (sell)
-3. [ContactsTask App](https://play.google.com/store/apps/details?id=com.balda.contactstask) (free)
-4. [AutoMail App](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.joaomgcd.autogmail%26hl%3Did%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Daplikasi%2Bautomail%26pcampaignid%3DAPPU_1_v2QCZ6CrKeyJ4-EPhaS-4AQ&ved=2ahUKEwjghreuxPmIAxXsxDgGHQWSD0wQ5YQBegQIDBAC&usg=AOvVaw1y31sjS79VE0U_TperMzev) (sell)
+### Template Info 
 
-## Template Info 
 You can buy Bot templates via this WA number:
 ```bash
 +6289508899033
@@ -83,10 +85,10 @@ bonus :
 - Given guidance to modify
 - Guided to be able to develop bots
   
-## Contributing
+### Contributing
 
 Feel free to contribute by opening issues or pull requests. Your feedback and contributions are highly appreciated.
 
-## License
+### License
 
 This project is licensed under the [MIT License](LICENSE).
