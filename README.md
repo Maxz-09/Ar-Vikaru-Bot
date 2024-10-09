@@ -51,19 +51,20 @@ Feature list :
 
 4. Go to Autoresponder settings and change "Automation" to [like this](https://wa.me/)
 
-5. After that, set it according to your needs. - [enable](https://wa.me/) The autoresponder
+5. Then please change the settings according to your needs
 
-6. Import the file "Tsk-Vikaru-bot.xml" into the Tasker project and enable it
+6. [Import](https://wa.me/) the file "Tsk-Vikaru-plugin.xml" into the Tasker project and enable it
 
 7. Then open the "ContactsTask" application and allow permissions from the application and allow/turn on always running in the background.
     
 8. Open the "AutoMail" application and log in using the email account you want to use as the sender of the verification code message from the registration feature in the bot and allow/enable the app to always run in the background.
 
-9. Done, start using a simple command by typing :
+9. Make sure your internet and notifications are not problematic, And don't forget to allow the all application permissions and always allow the application to run in the background. - then [start](https://wa.me/)
+
+10. Done, start using a simple command by typing :
 ```bash
 /menu
 ```
-10. Make sure your internet and notifications are not problematic 
 
 ### Note
 
@@ -80,7 +81,9 @@ You can buy Bot templates via this WA number:
 +6289508899033
 ```
 
-bonus :
+buyer benefits :
+
+- Get file ( "Ar-Vikar-Bot.csv" | "Ar-Vikaru-Input.csv | "Tsk-Vikaru-Plugin.xml" )
 - Always Get Free updates
 - Given guidance to modify
 - Guided to be able to develop bots
