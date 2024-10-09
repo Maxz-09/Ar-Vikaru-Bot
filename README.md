@@ -1,3 +1,6 @@
+Jika kamu pengguna chrome kamu bisa mengetuk titik 3 yang ada di pojok kanan atas lalu pilih opsi "Terjemahkan"
+
+---
 ## Ar-Vikaru-Bot
 
 This is an Autoresponder file template developed by [Maxz-09](https://github.com/Maxz-09)
