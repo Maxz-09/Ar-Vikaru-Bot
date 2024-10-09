@@ -63,7 +63,7 @@ Feature list :
 ```bash
 /menu
 ```
-10. Join my community [group](https://chat.whatsapp.com/JfpGsd5GPh5EzvRVjm54tx)
+10. Make sure your internet and notifications are not problematic 
 
 ### Note
 
@@ -84,6 +84,8 @@ bonus :
 - Always Get Free updates
 - Given guidance to modify
 - Guided to be able to develop bots
+
+You can also use and see the bot features via community [group](https://chat.whatsapp.com/JfpGsd5GPh5EzvRVjm54tx)
   
 ### Contributing
 
