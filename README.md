@@ -1,28 +1,28 @@
 # Ar-Vikaru-Bot
 
-Ini adalah template file Autoresponder yang di kembangkan oleh [Maxz-09](https://github.com/Maxz-09)
+This is an Autoresponder file template developed by [Maxz-09](https://github.com/Maxz-09)
 
-Tujuannya adalah untuk dapat menggunakan bot WhatsApp yang mudah di kembangkan sendiri tanpa perlu keahlian tentang bahasa pemrograman.
+The purpose of creating this template is to be able to use a WhatsApp bot that is easy to develop yourself without the need for coding and programming language skills.
 
 ## Superiority 
 
-Keunggulan bot ini sebagai berikut:
+The advantages of this bot are as follows :
 
 - Multi Prefix & Multi Device
--  Tidak perlu menggunakan server
-- Sistem Registrasi (save kontak)
-- Sistem kirim media (beta)
-- Sistem [Vikaru-Api](https://vikaru-api.bohr.io/)
-- Sistem Tasker
+- No need to run using a server
+- Registration System (save contact)
+- Media sending system (beta)
+- System [Vikaru-Api](https://vikaru-api.bohr.io/)
+- Tasker System
 
 ## Features
 
-Bot ini memiliki fitur lebih dari 100+ yang dapat membantu kamu melalui fitur AI nya maupun menghibur kamu di waktu kosong.
+This bot has more than 100+ features that can definitely help you through its AI features, and it can also entertain you in your free time with its fun features.
 
-List fitur :
+Feature list :
 
 - Main menu
--  Other menu
+- Other menu
 - Owner menu
 - Group menu
 - Kerang menu
@@ -37,40 +37,42 @@ List fitur :
 
 ## Getting Started
 
-1. [Fork](https://github.com/Maxz-09/ar-vikaru-bot/fork) this repository.
+1. Download the latest file via [Releases](https://github.com/Maxz-09/Ar-Vikaru-Bot/releases/tag/Update)
 
-2. Download file terbaru melalui [Releases](https://github.com/Maxz-09/Ar-Vikaru-Bot/releases/tag/Update)
+2. [Import](https://wa.me/) "Ar-Vikaru-bot.csv" file to Autoresponder
 
-3. [Import](https://wa.me/) file "Ar-Vikaru-bot.csv" ke Autoresponder
+3. [Import](https://wa.me/) "Ar-Vikaru-Input.csv" file to Ar Answer Replacement
 
-4. [Import](https://wa.me/) file "Ar-Vikaru-Input.csv" ke Penggantian jawaban Ar
+4. Go to Autoresponder settings and change "Automation" to [like this](https://wa.me/)
 
-5. Masuk ke setting Autoresponder dan ubah "Otomatisasi" menjadi [seperti ini](https://wa.me/)
+5. After that, set it according to your needs. - [enable](https://wa.me/) The autoresponder
 
-6. Setelah itu setting sesuai kebutuhan kamu lalu [aktifkan](https://wa.me/) bot nya
+6. Import the file "Tsk-Vikaru-bot.xml" into the Tasker project and enable it
 
-7. Import file "Tsk-Vikaru-bot.xml" ke project Tasker lalu aktifkan
+7. Then open the "ContactsTask" application and allow permissions from the application and allow/turn on always running in the background.
+    
+8. Open the "AutoMail" application and log in using the email account you want to use as the sender of the verification code message from the registration feature in the bot and allow/enable the app to always run in the background.
 
-8. Lalu Buka Aplikasi ContactsTask dan terima perizinan dari aplikasi tersebut dan nyalakan berjalan di latar belakang
-
-9. Lalu buka Aplikasi AutoMail dan terima perizinan dari aplikasi tersebut, lalu login menggunakan akun email yang ingin dijadikan sebagai pengirim code verifikasi untuk fitur registrasi dan nyalakan berjalan di latar belakang
-
-10. Done, start using a simple command by typing :
-   ```bash
+9. Done, start using a simple command by typing :
+```bash
 /menu
 ```
+10. join my community [group](https://chat.whatsapp.com/JfpGsd5GPh5EzvRVjm54tx)
+
 ## Note
 
-- Bots do not reply if they do not receive notifications, make sure the notification is sent correctly. If you open and read a message when someone sends a message, the notification will not come in and can cause bot not replying.
+- Bots do not reply if they do not receive notifications, make sure the notification is sent correctly. If you open and read a message when someone sends a message, the notification will not come in and can cause bot not replying. and make sure you have a stable internet connection to receive messages.
 
 - This bot prefix uses RegEx in almost all of its cmds, make sure you have basic knowledge about Regular Expression.
-   
-1. [Autoresponder](https://play.google.com/store/apps/dev?id=7857280643314172854) (subscribe/sell)
-2. [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) (sell)
-3. [ContactsTask](https://play.google.com/store/apps/details?id=com.balda.contactstask) (free)
-4. [AutoMail](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.joaomgcd.autogmail%26hl%3Did%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Daplikasi%2Bautomail%26pcampaignid%3DAPPU_1_v2QCZ6CrKeyJ4-EPhaS-4AQ&ved=2ahUKEwjghreuxPmIAxXsxDgGHQWSD0wQ5YQBegQIDBAC&usg=AOvVaw1y31sjS79VE0U_TperMzev) (sell)
 
-## Info Template 
+- This bot mostly uses Indonesian, if you want to use another language, please just request it to the owner.
+   
+1. [AutoResponder App](https://play.google.com/store/apps/dev?id=7857280643314172854) (subscribe/sell)
+2. [Tasker App](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) (sell)
+3. [ContactsTask App](https://play.google.com/store/apps/details?id=com.balda.contactstask) (free)
+4. [AutoMail App](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.joaomgcd.autogmail%26hl%3Did%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Daplikasi%2Bautomail%26pcampaignid%3DAPPU_1_v2QCZ6CrKeyJ4-EPhaS-4AQ&ved=2ahUKEwjghreuxPmIAxXsxDgGHQWSD0wQ5YQBegQIDBAC&usg=AOvVaw1y31sjS79VE0U_TperMzev) (sell)
+
+## Template Info 
 You can buy Bot templates via this WA number:
 ```bash
 +6289508899033
@@ -78,6 +80,7 @@ You can buy Bot templates via this WA number:
 
 bonus :
 - Always Get Free updates
+- Given guidance to modify
 - Guided to be able to develop bots
   
 ## Contributing
